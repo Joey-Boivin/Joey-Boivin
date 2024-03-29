@@ -3,12 +3,14 @@
 
 I'm a software engineering student from Canada. I am interested in embedded software, operating systems and window managers. Currently working part-time as an embedded software developer where I get to build exciting projects while completing my degree 👨‍🎓.
 
+<div style="display: flex; flex-direction: row;">
 <a href="https://github.com/Joey-Boivin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&show_icons=true&rank_icon=percentile&card_width=200&theme=moltack" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&show_icons=true&rank_icon=percentile&&card_width=50&theme=moltack" />
 </a>
 <a href="https://github.com/Joey-Boivin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&langs_count=6&layout=compact&card_width=300&theme=moltack" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&langs_count=6&layout=compact&card_width=50&theme=moltack" />
 </a>
+</div>
 
 ### 🛠️ Technologies I use:
 <div>
