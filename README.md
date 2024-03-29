@@ -7,7 +7,7 @@ I'm a software engineering student from Canada. I am interested in embedded soft
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&show_icons=true&rank_icon=percentile&card_width=200&theme=moltack" />
 </a>
 <a href="https://github.com/Joey-Boivin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&langs_count=8&card_width=300&theme=moltack" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&langs_count=6&layout=compact&card_width=300&theme=moltack" />
 </a>
 
 ### 🛠️ Technologies I use:
