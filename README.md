@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br><br>
+<br>
 
 <h3 align="center">Languages I've worked with in the past</h3>
 
@@ -74,7 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
-<br>
 
 <h3 align="center">Operating systems</h3>
 
