@@ -38,8 +38,6 @@
   <img width="12" />
 </div>
 
-<br>
-
 <h3 align="center">Frameworks and  tools</h3>
 
 <div align="center">
