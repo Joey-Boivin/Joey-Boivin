@@ -1,4 +1,4 @@
-<h2 align="center">Hello traveler of the internet! Welcome to my GitHub page!</h2>
+![Header](./github-header-image.png)
 
 ###
 
