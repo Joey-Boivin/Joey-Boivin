@@ -1,23 +1,25 @@
+<h2 align="center">
+  Hello 👋! I'm Joey
+</h2>
 <div align="center">
-<img src="./github-header-image.png"/)
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Joey-Boivin&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <i align="center">Software engineering graduate at Univesité Laval (2025)</i>
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&layout=compact&card_width=320&langs_count=6&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
+  <text>I am a passionate developper with experience in low level programming as well as web developpement. I'm always interested in learning and getting out of my comfort zone. I'm currently interested in writing Go, C++ and Nix.</text>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Joey-Boivin&theme=nord&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joey-Boivin&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 
-<h3 align="center">Languages I've worked with in the past</h3>
+<h3 align="left">Languages</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -38,9 +40,9 @@
   <img width="12" />
 </div>
 
-<h3 align="center">Frameworks and  tools</h3>
+<h3 align="left">Frameworks and  tools</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
@@ -61,20 +63,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
 </div>
 
 
-<h3 align="center">Operating systems</h3>
+<h3 align="left">Operating systems</h3>
 
-<div align="center">
+<div align="left">
    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="raspberrypi logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
