@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-  <text>I am a passionate developper with experience in low level programming as well as web developpement. I'm always interested in learning and getting out of my comfort zone. I'm currently interested in writing Go, C++ and Nix.</text>
+  <text>I am a passionate developer with experience in low-level programming as well as web development. I'm currently interested in embedded development and backend development, but I'm always happy to step out of my comfort zone to become a better dev.
 </div>
 <br>
 <div align="center">
