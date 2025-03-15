@@ -10,6 +10,8 @@
   <text>I am a passionate developer with experience in low-level programming as well as web development. I'm currently interested in embedded development and backend development, but I'm always happy to step out of my comfort zone to become a better dev.
 </div>
 <br>
+
+<!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Joey-Boivin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt=""  />
  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Joey-Boivin&theme=nord&hide_border=false" height="150" alt=""/>
@@ -84,6 +86,7 @@
 
 </div>
 
+
 <br>
 
 <br clear="both">
@@ -91,3 +94,4 @@
 <div align="center">
 <img src="https://github.com/Joey-Boivin/Joey-Boivin/blob/output/github-snake-dark.svg" alt="" />
 </div>
+-->
